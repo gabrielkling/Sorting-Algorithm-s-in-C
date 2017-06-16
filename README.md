@@ -1,2 +1,1 @@
-# Sorting-Algorithm-s-in-C
-Sorting algorithm's implemented in C language.
+Just change the header name inside the code before compiling.
